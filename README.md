@@ -3,14 +3,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shita888&label=Profile%20views&color=0e75b6&style=flat" height="100" alt="shita888" /> </p>
 <p align="left">
   <img align="right" width="320" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
-</p> 
-<p> <pre>
-#📫 How to reach me: 
-   "sheetalnarwariya40@gmail.com"
-  
-#📄 Know about my experiences:
-   https://drive.google.com/file/d/1ltGmWa4m5sBGyG_Zn-Z19CuCK-0hZjFw/view?usp=drive_link
- </pre></p>
+</p>  
+
+• 📫 How to reach me: sheetalnarwariya40@gmail.com 
+
+• 📄 Resume: 
+     https://drive.google.com/file/d/1ltGmWa4m5sBGyG_Zn-Z19CuCK-0hZjFw/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">  

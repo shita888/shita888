@@ -8,8 +8,7 @@ Crafting code with creativity <br>
 <!-- <p align="left">
   <img align="right"  width="320" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" />
 </p>  
-</p> -->   
-![Visitors](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=ff69b4&style=for-the-badge)
+</p> -->    
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&size=30&lines=Welcome+to+my+GitHub;Web+Developer;Cloud+Learner;Keep+Learning+🚀" />

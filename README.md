@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sheet@l N@rw@riy@</h1> 
+<h1 align="center">Hi 👋, I'm Sheetal Narwariya</h1> 
 <p align="center">
 Crafting code with creativity <br>
 💻 CS Student | 🌐 Web Developer | ☁️ Cloud Learner
